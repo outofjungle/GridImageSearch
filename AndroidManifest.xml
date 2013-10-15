@@ -28,6 +28,10 @@
             android:name="com.vvenkat.gridimagesearch.ImageDisplayActivity"
             android:label="@string/title_activity_image_display" >
         </activity>
+        <activity
+            android:name="com.vvenkat.gridimagesearch.SettingActivity"
+            android:label="@string/title_activity_setting" >
+        </activity>
     </application>
 
 </manifest>
